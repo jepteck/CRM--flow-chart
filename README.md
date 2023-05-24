@@ -8,3 +8,7 @@ The following are the images
 The communication dashboard
 
 ![communicationd dashbards](https://github.com/jepteck/CRM--flow-chart/assets/49091035/aa54651a-0a07-4be5-89cf-964f05f89805)
+
+The General Dashboard
+
+![dashboard1](https://github.com/jepteck/CRM--flow-chart/assets/49091035/ca75e0b5-470c-4428-bd28-71fe3893a005)
